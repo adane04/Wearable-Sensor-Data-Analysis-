@@ -1,2 +1,2 @@
-# Smart-belt-data analysis 
-In this  experiment, we also examined the influence of increasing window sequence length on the performance of the action recognition model based belt sensor dataset. 
+# Smart-belt-
+In this sensor data analysis, data from acceleration and gyroscope sensors collected through a smart belt sensor is utilized. The analysis employs both classical machine learning techniques such as SVM and RF, as well as a 1D CNN with LSTM model. One of the aspects studied is how increasing the window sequence length impacts the performance of the action recognition model based on the belt sensor dataset.
